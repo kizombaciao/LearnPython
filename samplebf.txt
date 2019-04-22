@@ -1,0 +1,18 @@
++++++++
+[
+	>++++++++++
+	<-
+]
+>++.
+---.
++++++++..
++++.
+
+// line by line explanation to print HELLO.
+// set up the i index = 7
+// loop 7 times
+// and decrement i each times in the loop
+// add two more ascii to get to H and print H.
+// subtract 3 to get to E.
+// add to get L and print twice.
+// add to get to O and print once.
