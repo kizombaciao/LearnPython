@@ -1,2 +1,0 @@
-# LearnPython
-My Python Codes
