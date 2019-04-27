@@ -5,9 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
-nose = "*"
 
 [packages]
 
 [requires]
-python_version = "3.73"
+python_version = "3.7"
