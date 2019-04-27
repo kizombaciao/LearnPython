@@ -1,0 +1,1 @@
+python brainf.py sample.txt
